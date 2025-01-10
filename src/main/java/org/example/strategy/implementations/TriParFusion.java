@@ -1,6 +1,6 @@
-package org.example.stratey.implementations;
+package org.example.strategy.implementations;
 
-import org.example.stratey.TriStrategy;
+import org.example.strategy.TriStrategy;
 
 import java.util.ArrayList;
 import java.util.List;

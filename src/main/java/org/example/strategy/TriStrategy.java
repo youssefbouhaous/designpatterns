@@ -1,4 +1,4 @@
-package org.example.stratey;
+package org.example.strategy;
 
 import java.util.List;
 
